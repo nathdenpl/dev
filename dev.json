@@ -1,0 +1,230 @@
+{
+  "items": [
+    {
+      "title": "Vente de roses",
+      "date": "29.1.26.",
+      "due": "10:10",
+      "duration": "20 min",
+      "type": "Autre",
+      "info": "Vente de roses",
+      "text": "Désirez-vous livrer une rose à un proche ? Pour le prix de 5 francs par fleur, vous pouvez en commander durant la pause de midi. Vous avez également la possibilité d'y joindre un message anonyme ou signé selon vos préférences."
+    },
+    {
+      "title": "Biologie",
+      "sub": "Biologie",
+      "date": "29.1.26.",
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "TP",
+      "text": "TP"
+    },
+    {
+      "title": "Vente de roses",
+      "date": "29.1.26.",
+      "due": "12:10",
+      "duration": "90 min",
+      "type": "Autre",
+      "info": "Vente de roses",
+      "text": "Désirez-vous livrer une rose à un proche ? Pour le prix de 5 francs par fleur, vous pouvez en commander durant la pause de midi. Vous avez également la possibilité d'y joindre un message anonyme ou signé selon vos préférences."
+    },
+    {
+      "title": "Application des mathématiques",
+      "sub": "Application des mathématiques",
+      "date": "29.1.26.",
+      "due": "13:00",
+      "duration": "45 min",
+      "type": "Autre",
+      "info": "Appui (Thomas et Flavien)",
+      "text": "Appui (Thomas et Flavien)"
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "2.2.26.",
+      "due": "15:35",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Analyses orales",
+      "text": "Préparer une analyse orale à partir du texte étudié. L'ordre de tirage est effectué en cours même."
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "3.2.26.",
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Analyses orales",
+      "text": "Préparer une analyse orale à partir du texte étudié. L'ordre de tirage est effectué en cours même."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "4.2.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Vocabulaire",
+      "text": "Im In- und Ausland"
+    },
+    {
+      "title": "Journée à thème",
+      "date": "6.2.26.",
+      "due": "8:35",
+      "duration": "Jour entier",
+      "type": "Autre",
+      "info": "Élegance",
+      "text": "Veuillez vous vêtir de votre plus belle tenue. Peu importe ce qui pourrait vous passer par la tête tant que cela correspond à votre propre définition de l'élégance !"
+    },
+    {
+      "title": "Histoire",
+      "sub": "Histoire",
+      "date": "10.2.26.",
+      "due": "8:35",
+      "duration": "Matin",
+      "type": "Autre",
+      "info": "Présentation d'un reporter journaliste de guerre",
+      "text": "Présentation d'un report journaliste de guerre"
+    },
+    {
+      "title": "Fin des cours",
+      "date": "10.2.26.",
+      "due": "12:05",
+      "type": "Annonce",
+      "info": "Cours annulés",
+      "no-click": true
+    },
+    {
+      "title": "Géographie",
+      "sub": "Géographie",
+      "date": "10.2.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "Annulé"
+    },
+    {
+      "title": "Philosophie",
+      "sub": "Philosophie",
+      "date": "10.2.26.",
+      "due": "15:35",
+      "duration": "90 min",
+      "type": "Annulé"
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "11.2.26.",
+      "due": "8:35",
+      "duration": "45 min",
+      "type": "Annulé"
+    },
+    {
+      "title": "Jury et maître du temps",
+      "date": "11.2.26.",
+      "due": "8:35",
+      "duration": "30 min",
+      "type": "Annonce",
+      "info": "Salle 126, les autres ont congé",
+      "no-click": true
+    },
+    {
+      "title": "Début des cours pour les autres",
+      "date": "11.2.26.",
+      "due": "9:25",
+      "type": "Annonce",
+      "info": "Salle 230",
+      "no-click": true
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "11.2.26.",
+      "due": "9:25",
+      "duration": "30 min",
+      "type": "Autre",
+      "info": "Débat : Faut-il limiter la liberté d'expression ? Contre (Thomas et Léa), salle 230",
+      "text": "Assister aux débats et soutenir les participants très fort dans votre tête. Salle 230."
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "11.2.26.",
+      "due": "10:10",
+      "duration": "30 min",
+      "type": "Autre",
+      "info": "Débat : Les résolutions de Nouvel An valent-elles la peine ? Pour (Thomas et Patrick), salle 230",
+      "text": "Assister aux débats et soutenir les participants très fort dans votre tête. Salle 230."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "11.2.26.",
+      "due": "12:30",
+      "duration": "20 min",
+      "type": "Autre",
+      "info": "Débat : Sollte ein Rauchverbot in öfflentlichen Räumen eingeführt werden? Contre (Artur et Alexandre), salle 138",
+      "text": "Assister aux débats et soutenir les participants très fort dans votre tête aussi mais en allemand. Salle 138."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "11.2.26.",
+      "due": "13:10",
+      "duration": "20 min",
+      "type": "Autre",
+      "info": "Débat : Sollten wir Tiere im Zirkus verbieten? Pour (Artur et Alexandre), salle 221",
+      "text": "Assister aux débats et soutenir les participants très fort dans votre tête aussi mais en allemand. Salle 221."
+    },
+    {
+      "title": "Biologie",
+      "sub": "Biologie",
+      "date": "12.2.26.",
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Exposés",
+      "text": "Test sur les exposés."
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "3.3.26.",
+      "due": "23:59",
+      "duration": "1 min",
+      "type": "TE",
+      "info": "Recherches",
+      "text": "Rendre une page A4 recto de recherche sur le sujet attribué par mail. Police Aptos 12, interligne simple. IA autorisée à condition de l'utiliser intelligement, vérification d'orthographe par exemple."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "18.3.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Vocabulaire",
+      "text": ""
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "20.3.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Passage oral Thomas",
+      "text": "Thomas"
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "6.5.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Vocabulaire",
+      "text": ""
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr-CH">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>DEV — Devoirs & Tests</title>
+
+  <link rel="stylesheet" href="dev.css" />
+  <script src="dev.js" defer></script>
+</head>
+
+<body>
+  <main class="page">
+
+    <!-- Hero -->
+    <section class="hero" id="planner">
+      <div class="hero__bg"></div>
+
+      <div class="hero__inner">
+        <div class="hero__copy">
+          <p class="hero__kicker">3M01</p>
+          <h1 class="hero__title">Devoirs & Tests</h1>
+          <p class="hero__lead">
+            Les événements prévus pour la journée apparaissent en rouge, ceux du lendemain en jaune.
+            En cas d’omission ou d’anomalie, vous savez à qui vous adresser.
+            Pour l’ajout de devoirs ciblés (par exemple classes OC, passages oraux), il suffit de me le signaler.
+          </p>
+        </div>
+
+        <!-- Filtres -->
+        <section class="searchCard searchCard--hero">
+          <div class="searchTop">
+            <h2>Filtres</h2>
+          </div>
+
+          <div class="controls">
+            <div class="chips">
+              <button class="chip is-on" data-filter="all">Tout</button>
+              <button class="chip" data-filter="dev">Devoirs</button>
+              <button class="chip" data-filter="te">Tests</button>
+              <button class="chip" data-filter="annule">Annulé</button>
+              <button class="chip" data-filter="autre">Autre</button>
+            </div>
+
+            <select id="subFilter" aria-label="Filtrer par matière">
+              <option value="all">Toutes les matières</option>
+            </select>
+          </div>
+
+          <div class="searchBottom">
+            <div class="status" id="status"></div>
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <!-- Timeline -->
+    <section class="section" id="timeline">
+      <div class="section__head">
+        <h2>Calendrier</h2>
+        <p id="summary">—</p>
+      </div>
+
+      <div class="timelineWrap">
+        <div id="list" class="list"></div>
+      </div>
+    </section>
+
+    <!-- <section class="section" id="help">
+      <div class="section__head">
+        <h2>Aide</h2>
+        <p>
+          Édite <code>dev.json</code> puis push sur GitHub Pages.<br>
+          Date : <code>j.m.aa</code> / <code>jj.mm.aa</code> · Heure : <code>h:mm</code> / <code>hh:mm</code><br>
+          Type : <code>dev</code> (devoir), <code>TE</code> (test), <code>Autre</code>, <code>Annonce</code>, <code>Annulé</code>
+        </p>
+      </div>
+    </section> -->
+
+  </main>
+
+  <footer class="footer">
+    <div class="footer__inner">Vous savez qui contacter en cas de problème (:</div>
+  </footer>
+
+  <button id="toTop" class="toTop" type="button" aria-label="Remonter en haut">
+    Remonter en haut
+  </button>
+
+  <!-- Modal détail -->
+  <div id="modal" class="modal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal__overlay" data-close="true"></div>
+    <div class="modal__dialog" role="document">
+      <button class="modal__close" type="button" aria-label="Fermer" data-close="true">×</button>
+      <div class="modal__head">
+        <p id="modalSub" class="modal__sub">—</p>
+        <h3 id="modalTitle" class="modal__title">—</h3>
+        <p id="modalMeta" class="modal__meta">—</p>
+      </div>
+      <div class="modal__body">
+        <p id="modalText">—</p>
+      </div>
+      <div class="modal__foot">
+        <span id="modalBadge" class="badge">—</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

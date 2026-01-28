@@ -10,16 +10,6 @@
       "text": "Désirez-vous livrer une rose à un proche ? Pour le prix de 5 francs par fleur, vous pouvez en commander durant la pause de midi. Vous avez également la possibilité d'y joindre un message anonyme ou signé selon vos préférences."
     },
     {
-      "title": "Biologie",
-      "sub": "Biologie",
-      "date": "29.1.26.",
-      "due": "10:30",
-      "duration": "90 min",
-      "type": "TE",
-      "info": "TP",
-      "text": "TP"
-    },
-    {
       "title": "Vente de roses",
       "date": "29.1.26.",
       "due": "12:10",
@@ -215,6 +205,23 @@
       "type": "TE",
       "info": "Passage oral Thomas",
       "text": "Thomas"
+    },
+    {
+      "title": "Géographie",
+      "sub": "Géographie",
+      "date": "21.4.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "Annulé"
+    },
+    {
+      "title": "Allemand",
+      "date": "21.4.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "Annonce",
+      "info": "Cours en plus",
+      "no-click": true
     },
     {
       "title": "Allemand",

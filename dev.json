@@ -31,22 +31,42 @@
     {
       "title": "Allemand",
       "sub": "Allemand",
-      "date": "31.1.26.",
+      "date": "30.1.26.",
       "due": "10:30",
       "duration": "45 min",
       "type": "Devoir",
       "info": "Allmen und die Libellen",
-      "text": "-> Page 36"
+      "text": "Lecture -> Page 36"
+    },
+    {
+      "title": "Anglais",
+      "sub": "Anglais",
+      "date": "30.1.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "Devoir",
+      "info": "Lord of the Flies",
+      "text": "Questions Chapter 1"
     },
     {
       "title": "Allemand",
       "sub": "Allemand",
-      "date": "31.1.26.",
+      "date": "30.1.26.",
       "due": "11:20",
       "duration": "45 min",
       "type": "Devoir",
       "info": "Allmen und die Libellen",
-      "text": "-> Page 36"
+      "text": "Lecture -> Page 36"
+    },
+    {
+      "title": "Anglais",
+      "sub": "Anglais",
+      "date": "30.1.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "Devoir",
+      "info": "Lord of the Flies",
+      "text": "Questions Chapter 1"
     },
     {
       "title": "Français",
@@ -77,6 +97,14 @@
       "type": "TE",
       "info": "Vocabulaire",
       "text": "Im In- und Ausland"
+    },
+    {
+      "title": "Sports",
+      "sub": "Sports",
+      "date": "4.2.26.",
+      "due": "15:35",
+      "duration": "90 min",
+      "type": "Annulé"
     },
     {
       "title": "Journée à thème",
@@ -177,6 +205,15 @@
       "text": "Assister aux débats et soutenir les participants très fort dans votre tête aussi mais en allemand. Salle 138."
     },
     {
+      "title": "Jury et maître du temps",
+      "date": "11.2.26.",
+      "due": "12:30",
+      "duration": "30 min",
+      "type": "Annonce",
+      "info": "Salle 126",
+      "no-click": true
+    },
+    {
       "title": "Allemand",
       "sub": "Allemand",
       "date": "11.2.26.",
@@ -185,6 +222,14 @@
       "type": "Autre",
       "info": "Débat : Sollten wir Tiere im Zirkus verbieten? Pour (Artur et Alexandre), salle 221",
       "text": "Assister aux débats et soutenir les participants très fort dans votre tête aussi mais en allemand. Salle 221."
+    },
+    {
+      "title": "Sports",
+      "sub": "Sports",
+      "date": "11.2.26.",
+      "due": "15:35",
+      "duration": "90 min",
+      "type": "Annulé"
     },
     {
       "title": "Biologie",

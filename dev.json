@@ -63,7 +63,7 @@
       "duration": "90 min",
       "type": "Autre",
       "info": "Cours",
-      "no-click": true
+      "text": "Cours"
     },
     {
       "title": "Atelier Conte",
@@ -82,7 +82,7 @@
       "duration": "90 min",
       "type": "Autre",
       "info": "Cours",
-      "no-click": true
+      "text": "Cours"
     },
     {
       "title": "Mathématiques",
@@ -92,7 +92,7 @@
       "duration": "90 min",
       "type": "Autre",
       "info": "Cours",
-      "no-click": true
+      "text": "Cours"
     },
     {
       "title": "Fin des cours",
@@ -103,38 +103,40 @@
       "no-click": true
     },
     {
+      "title": "Début des cours",
+      "date": "10.2.26.",
+      "due": "8:35",
+      "type": "Annonce",
+      "info": "Début des cours",
+      "no-click": true
+    },
+    {
       "title": "Histoire",
       "sub": "Histoire",
       "date": "10.2.26.",
       "due": "8:35",
-      "duration": "Matin",
+      "duration": "180 min",
       "type": "Autre",
       "info": "Présentation d'un reporter journaliste de guerre",
-      "text": "Présentation d'un report journaliste de guerre"
+      "text": "Présentation d'un reporter journaliste de guerre, Ateliers de la Côte"
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "10.2.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "Autre",
+      "info": "Cours",
+      "text": "Cours"
     },
     {
       "title": "Fin des cours",
       "date": "10.2.26.",
-      "due": "12:05",
+      "due": "15:25",
       "type": "Annonce",
-      "info": "Cours annulés",
+      "info": "Fin des cours",
       "no-click": true
-    },
-    {
-      "title": "Géographie",
-      "sub": "Géographie",
-      "date": "10.2.26.",
-      "due": "13:50",
-      "duration": "90 min",
-      "type": "Annulé"
-    },
-    {
-      "title": "Philosophie",
-      "sub": "Philosophie",
-      "date": "10.2.26.",
-      "due": "15:35",
-      "duration": "90 min",
-      "type": "Annulé"
     },
     {
       "title": "Français",
@@ -211,12 +213,28 @@
       "text": "Assister aux débats et soutenir les participants très fort dans votre tête aussi mais en allemand. Salle 221."
     },
     {
+      "title": "Fin des cours",
+      "date": "11.2.26.",
+      "due": "15:25",
+      "type": "Annonce",
+      "info": "Fin des cours",
+      "no-click": true
+    },
+    {
       "title": "Sport",
       "sub": "Sport",
       "date": "11.2.26.",
       "due": "15:35",
       "duration": "90 min",
       "type": "Annulé"
+    },
+    {
+      "title": "Cours normaux",
+      "date": "12.2.26.",
+      "due": "8:35",
+      "type": "Annonce",
+      "info": "L'horaire habituel reprend",
+      "no-click": true
     },
     {
       "title": "Biologie",
@@ -227,6 +245,14 @@
       "type": "TE",
       "info": "Exposés",
       "text": "Test sur les exposés."
+    },
+    {
+      "title": "Cours normaux",
+      "date": "13.2.26.",
+      "due": "8:35",
+      "type": "Annonce",
+      "info": "L'horaire habituel reprend",
+      "no-click": true
     },
     {
       "title": "Français",
@@ -268,12 +294,13 @@
     },
     {
       "title": "Allemand",
+      "sub": "Allemand",
       "date": "21.4.26.",
       "due": "13:50",
       "duration": "90 min",
-      "type": "Annonce",
-      "info": "Cours en plus",
-      "no-click": true
+      "type": "Autre",
+      "info": "Cours",
+      "text": "Cours"
     },
     {
       "title": "Allemand",

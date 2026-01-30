@@ -39,6 +39,16 @@
       "type": "Annulé"
     },
     {
+      "title": "Physique",
+      "sub": "Physique",
+      "date": "5.2.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "Devoir",
+      "info": "Exercices 14.34, .37 et .39",
+      "text": "Exercices 14.34, .37 et .39. Ce devoir est une recommandation, il est donc optionnel."
+    },
+    {
       "title": "Journée à thème",
       "date": "6.2.26.",
       "due": "8:35",

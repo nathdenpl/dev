@@ -48,6 +48,35 @@
       "text": "Veuillez vous vêtir de votre plus belle tenue. Peu importe ce qui pourrait vous passer par la tête tant que cela correspond à votre propre définition de l'élégance !"
     },
     {
+      "title": "Français",
+      "sub": "Français",
+      "date": "9.2.26.",
+      "due": "8:35",
+      "duration": "90 min",
+      "type": "Autre",
+      "info": "Cours",
+      "no-click": true
+    },
+    {
+      "title": "Atelier Conte",
+      "date": "9.2.26.",
+      "due": "9:25",
+      "duration": "135 min",
+      "type": "Autre",
+      "info": "Atelier optionel",
+      "text": "Inscriptions par mail jusqu'au 6.2.26. 12:00"
+    },
+    {
+      "title": "Anglais",
+      "sub": "Anglais",
+      "date": "9.2.26.",
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "Autre",
+      "info": "Cours",
+      "no-click": true
+    },
+    {
       "title": "Histoire",
       "sub": "Histoire",
       "date": "10.2.26.",

@@ -51,7 +51,7 @@
       "title": "Début des cours",
       "date": "9.2.26.",
       "due": "8:35",
-      "type": "Annonce"
+      "type": "Annonce",
       "info": "Début des cours",
       "no-click": true
     },
@@ -98,7 +98,7 @@
       "title": "Fin des cours",
       "date": "9.2.26.",
       "due": "15:25",
-      "type": "Annonce"
+      "type": "Annonce",
       "info": "Fin des cours",
       "no-click": true
     },

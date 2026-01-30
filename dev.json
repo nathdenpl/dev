@@ -58,6 +58,26 @@
       "text": "Veuillez vous vêtir de votre plus belle tenue. Peu importe ce qui pourrait vous passer par la tête tant que cela correspond à votre propre définition de l'élégance !"
     },
     {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "6.2.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "6.2.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
       "title": "Début des cours",
       "date": "9.2.26.",
       "due": "8:35",
@@ -74,6 +94,16 @@
       "type": "Autre",
       "info": "Cours",
       "text": "Cours"
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "9.2.26.",
+      "due": "8:35",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Analyses orales",
+      "text": "Préparer une analyse orale à partir du texte étudié. L'ordre de tirage est effectué en cours même."
     },
     {
       "title": "Atelier Conte",
@@ -139,6 +169,16 @@
       "type": "Autre",
       "info": "Cours",
       "text": "Cours"
+    },
+    {
+      "title": "Français",
+      "sub": "Français",
+      "date": "10.2.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Analyses orales",
+      "text": "Préparer une analyse orale à partir du texte étudié. L'ordre de tirage est effectué en cours même."
     },
     {
       "title": "Fin des cours",
@@ -265,6 +305,46 @@
       "no-click": true
     },
     {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "13.2.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "13.2.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "27.2.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "27.2.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
       "title": "Français",
       "sub": "Français",
       "date": "3.3.26.",
@@ -273,6 +353,46 @@
       "type": "TE",
       "info": "Recherches",
       "text": "Rendre une page A4 recto de recherche sur le sujet attribué par mail. Police Aptos 12, interligne simple. IA autorisée à condition de l'utiliser intelligement, vérification d'orthographe par exemple."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "6.3.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "6.3.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "13.3.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "13.3.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
     },
     {
       "title": "Allemand",
@@ -288,11 +408,41 @@
       "title": "Allemand",
       "sub": "Allemand",
       "date": "20.3.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "20.3.26.",
       "due": "11:20",
       "duration": "45 min",
       "type": "TE",
-      "info": "Passage oral Thomas",
-      "text": "Thomas"
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : Thomas."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "27.3.26.",
+      "due": "10:30",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Allemand",
+      "sub": "Allemand",
+      "date": "27.3.26.",
+      "due": "11:20",
+      "duration": "45 min",
+      "type": "TE",
+      "info": "Analyse orale",
+      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
     },
     {
       "title": "Géographie",

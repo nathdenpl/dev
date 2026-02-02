@@ -6,9 +6,7 @@
       "date": "2.2.26.",
       "due": "15:35",
       "duration": "90 min",
-      "type": "TE",
-      "info": "Analyses orales",
-      "text": "Préparer une analyse orale à partir du texte étudié. L'ordre de tirage est effectué en cours même."
+      "type": "Annulé"
     },
     {
       "title": "Français",
@@ -343,6 +341,16 @@
       "type": "TE",
       "info": "Analyse orale",
       "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Application des mathématiques",
+      "sub": "Application des mathématiques",
+      "date": "2.2.26.",
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Équations différentielles",
+      "text": "Équations différentielles (plus de détails plus tard)."
     },
     {
       "title": "Français",

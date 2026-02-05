@@ -1,40 +1,14 @@
 {
   "items": [
     {
-      "title": "Français",
-      "sub": "Français",
-      "date": "2.2.26.",
-      "due": "15:35",
-      "duration": "90 min",
-      "type": "Annulé"
-    },
-    {
-      "title": "Français",
-      "sub": "Français",
-      "date": "3.2.26.",
-      "due": "10:30",
-      "duration": "90 min",
-      "type": "TE",
-      "info": "Analyses orales",
-      "text": "Préparer une analyse orale à partir du texte étudié. L'ordre de tirage est effectué en cours même."
-    },
-    {
       "title": "Allemand",
       "sub": "Allemand",
-      "date": "4.2.26.",
-      "due": "13:50",
+      "date": "6.2.26.",
+      "due": "10:30",
       "duration": "90 min",
       "type": "TE",
       "info": "Vocabulaire",
       "text": "Im In- und Ausland"
-    },
-    {
-      "title": "Sport",
-      "sub": "Sport",
-      "date": "4.2.26.",
-      "due": "15:35",
-      "duration": "90 min",
-      "type": "Annulé"
     },
     {
       "title": "Physique",
@@ -131,6 +105,16 @@
       "type": "Autre",
       "info": "Cours",
       "text": "Cours"
+    },
+    {
+      "title": "Mathématiques",
+      "sub": "Mathématiques",
+      "date": "9.2.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "Devoir",
+      "info": "Exercice 2.14 E et F",
+      "text": "Exercice 2.14 E et F"
     },
     {
       "title": "Fin des cours",

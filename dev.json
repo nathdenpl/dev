@@ -252,7 +252,7 @@
       "sub": "Allemand",
       "date": "25.2.26.",
       "due": "10:30",
-      "duration": "45 min",
+      "duration": "90 min",
       "type": "TE",
       "info": "Analyse orale",
       "text": "Préparer une analyse orale à partir du texte étudié. Élèves : ? et ?."
@@ -260,7 +260,7 @@
     {
       "title": "Allemand",
       "sub": "Allemand",
-      "date": "25.2.26.",
+      "date": "13.2.26.",
       "due": "10:30",
       "duration": "90 min",
       "type": "Devoir",

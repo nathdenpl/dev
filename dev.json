@@ -1,55 +1,6 @@
 {
   "items": [
     {
-      "title": "Allemand",
-      "sub": "Allemand",
-      "date": "6.2.26.",
-      "due": "10:30",
-      "duration": "90 min",
-      "type": "TE",
-      "info": "Vocabulaire",
-      "text": "Im In- und Ausland"
-    },
-    {
-      "title": "Physique",
-      "sub": "Physique",
-      "date": "5.2.26.",
-      "due": "13:50",
-      "duration": "90 min",
-      "type": "Devoir",
-      "info": "Exercices 14.34, .37 et .39",
-      "text": "Exercices 14.34, .37 et .39. Ce devoir est une recommandation, il est donc optionnel."
-    },
-    {
-      "title": "Journée à thème",
-      "date": "6.2.26.",
-      "due": "8:35",
-      "duration": "Jour entier",
-      "type": "Autre",
-      "info": "Élegance",
-      "text": "Veuillez vous vêtir de votre plus belle tenue. Peu importe ce qui pourrait vous passer par la tête tant que cela correspond à votre propre définition de l'élégance !"
-    },
-    {
-      "title": "Allemand",
-      "sub": "Allemand",
-      "date": "6.2.26.",
-      "due": "10:30",
-      "duration": "45 min",
-      "type": "TE",
-      "info": "Analyse orale",
-      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
-    },
-    {
-      "title": "Allemand",
-      "sub": "Allemand",
-      "date": "6.2.26.",
-      "due": "11:20",
-      "duration": "45 min",
-      "type": "TE",
-      "info": "Analyse orale",
-      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
-    },
-    {
       "title": "Début des cours",
       "date": "9.2.26.",
       "due": "8:35",
@@ -95,6 +46,16 @@
       "type": "Autre",
       "info": "Cours",
       "text": "Cours"
+    },
+    {
+      "title": "Anglais",
+      "sub": "Anglais",
+      "date": "9.2.26.",
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "Devoir",
+      "info": "Lord of the Flies Questions Chapters 2-3",
+      "text": "Lord of the Flies Questions Chapters 2-3"
     },
     {
       "title": "Mathématiques",
@@ -294,17 +255,17 @@
       "duration": "45 min",
       "type": "TE",
       "info": "Analyse orale",
-      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+      "text": "Préparer une analyse orale à partir du texte étudié. Élèves : ? et ?."
     },
     {
       "title": "Allemand",
       "sub": "Allemand",
       "date": "13.2.26.",
-      "due": "11:20",
-      "duration": "45 min",
-      "type": "TE",
-      "info": "Analyse orale",
-      "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+      "due": "10:30",
+      "duration": "90 min",
+      "type": "Devoir",
+      "info": "Allmen und die Libellen -> Page 67",
+      "text": "Das geht nicht."
     },
     {
       "title": "Géographie",

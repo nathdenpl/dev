@@ -11,16 +11,6 @@
       "text": "Préparer une analyse orale à partir du texte étudié. Élèves : ? et ?."
     },
     {
-      "title": "Allemand",
-      "sub": "Allemand",
-      "date": "13.2.26.",
-      "due": "10:30",
-      "duration": "90 min",
-      "type": "Devoir",
-      "info": "Allmen und die Libellen -> Page 67",
-      "text": "Das geht nicht."
-    },
-    {
       "title": "Géographie",
       "sub": "Géographie",
       "date": "24.2.26.",
@@ -107,6 +97,16 @@
       "type": "TE",
       "info": "Analyse orale",
       "text": "Préparer une analyse orale à partir du texte étudié. Élève : ?."
+    },
+    {
+      "title": "Maths RE",
+      "sub": "Maths RE",
+      "date": "9.3.26.",
+      "due": "13:50",
+      "duration": "90 min",
+      "type": "TE",
+      "info": "Intégrales",
+      "text": "Tout le chapitre 2 et 3 (aires, volumes, exp et log)."
     },
     {
       "title": "Allemand",
